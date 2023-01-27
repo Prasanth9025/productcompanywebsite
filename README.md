@@ -734,7 +734,7 @@ Publish the website in the given URL.
 ### products page:
 ![output](./products.png)
 ### people page:
-![output](./products.png)
+![output](./people.png)
 ### contact page:
 ![output](./contact.png)
 ### validator:
